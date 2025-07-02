@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Swamijasi
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on Open Soource Projects
+- 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me swamijasi@gmail.com
 - 😄 Pronouns: Jassi
 - ⚡ Fun fact: Love to Travel
